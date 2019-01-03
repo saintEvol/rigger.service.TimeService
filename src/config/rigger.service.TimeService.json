@@ -1,0 +1,20 @@
+/**
+* 网络服务配置 
+*/
+{
+	"fullName": "rigger.service.TimeService",
+	"version": "1.0.0",
+	"services": [],
+	"plugins": [
+		{
+			"fullName": "rigger.service.LayaLocalTimePlugin",
+			"src": "",
+			"dest": ""
+		},
+		{
+			"fullName": "rigger.service.LayaTimerPlugin",
+			"src": "",
+			"dest": ""
+		}
+	]
+}
